@@ -1,1 +1,4 @@
-# jurisprudence-tongdao
+# 同道学园法哲学系列读书会
+
+## 活动简介
+
