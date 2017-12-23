@@ -7,7 +7,9 @@
 英国内战/资产阶级革命/清教革命 的知识框架与脉络梳理，帮助建立历史的一个通识框架。另有两位分享人讨论涉及对应历史时段的两个话题。
 
 题目一：英国内战简要 （周玥）
+
 题目二：洛克的正当战争学说（Shuo）
+
 题目三：洛克时代（扫雷）
 
 
@@ -118,6 +120,6 @@ head; but always and only on condition that religion is kept inviolate.”(四�
 (3)议员言论特权。(《全国人民代表大会和地方各级人民代表大会代表法》第 三十一条:“代表在人民代表大会各种会议上的发言和表决，不受法律追究。”)
 
 ### 从克伦威尔到光荣革命（扫雷）
-[文档链接](http://)
+[文档链接](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/FromCromwellToTheGloriousRevolution.md)
 
 ### 洛克的正当战争学说（Shuo） 内容和版权归发言人保留
