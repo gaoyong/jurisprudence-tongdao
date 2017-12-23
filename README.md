@@ -28,7 +28,7 @@
 |  《西方法学史纲》  |  何勤华  | [豆瓣](https://book.douban.com/subject/26871420/) |法学史|
 |《法理学：从古希腊到后现代》|莫里森|[豆瓣](https://book.douban.com/subject/1248159/)|法学史|
 |《新编西方法律思想史（现代、当代部分）》|高鸿钧/赵晓力|[豆瓣](https://book.douban.com/subject/26644817/)|法学史|
-|《欧洲法律史：从古希腊到里斯本条约》|]乌维·维瑟尔 |[豆瓣](https://book.douban.com/subject/26803654/)|法制史|
+|《欧洲法律史：从古希腊到里斯本条约》|乌维·维瑟尔 |[豆瓣](https://book.douban.com/subject/26803654/)|法制史|
 |《外国法制史》|王云霞等|[豆瓣](https://book.douban.com/subject/26306797/)|法制史|
 |《法律的概念》|哈特|[豆瓣](https://book.douban.com/subject/6803346/)|法哲学|
 |《法哲学》|马默|[豆瓣](https://book.douban.com/subject/26220830/)|法哲学|

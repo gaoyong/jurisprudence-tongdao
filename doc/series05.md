@@ -2,7 +2,9 @@
 
 # 分享文本记录
 
-罗马共和政制 （高勇）
+# 罗马共和政制 （高勇）
+
+![罗马共和国宪制](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/images/Constitution_of_the_Roman_Republic.jpg)
 
 ## 导读性问题
 1. 罗马共和时期的“国体”“政体”“国号”是什么？（普通人视角提问）
