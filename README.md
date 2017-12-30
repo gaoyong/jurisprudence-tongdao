@@ -13,6 +13,7 @@
 | 5    |   [罗马的共和政制与“家父权”](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/series05.md) |  2017-11-18  |[豆瓣同城](https://www.douban.com/event/29753096/),微信文案|
 | 6    |   [摩西十诫与教会法](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/series06.md) |  2017-12-02  |[豆瓣同城](https://www.douban.com/event/29829659/),微信文案|
 | 7    |   [英国内战与议会民主](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/series07.md) |  2017-12-16 |[豆瓣同城](https://www.douban.com/event/29894461/),微信文案|
+| 8    |   [哈特法哲学的三组议题]() |  2018-01-06 |[豆瓣同城](https://www.douban.com/event/30001427/),微信文案|
 
 ## 组织介绍
 
@@ -37,4 +38,3 @@
 |《法哲学：价值与事实》|瓦克斯|[豆瓣](https://book.douban.com/subject/24383568/)|法哲学|
 |《读懂法理学》|瓦克斯|[豆瓣](https://book.douban.com/subject/26832357/)|法哲学|
 |《像法律人那样思考》|弗里德里克·肖尔|[豆瓣](https://book.douban.com/subject/26835022/)|法哲学|
-
