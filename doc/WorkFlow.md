@@ -54,9 +54,9 @@
 2. 发现积累潜在同道，每次线下活动之后以各种途径判断和发现“同道”，将其沉淀下来，通过后续社群运营的方式将其内化成社群的一员，加强社群的力量；
 
 过往七次活动的实践摸索如下图
-<div align="center">
-![image](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/images/WeChatManage.jpg)
-</div>
+
+
+<img src="https://github.com/gaoyong/jurisprudence-tongdao/blob/master/images/WeChatManage.jpg"  alt="微信群管理架构" align="center" />
 
 具体操作步骤:
 * 每次线下活动之前由轮值主席牵头拉一个线下活动群，组织者、导读人和分享人等是最初成员；
