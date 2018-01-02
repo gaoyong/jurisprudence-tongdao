@@ -13,13 +13,19 @@
 | 5    |   [罗马的共和政制与“家父权”](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/series05.md) |  2017-11-18  |[豆瓣同城](https://www.douban.com/event/29753096/),微信文案|
 | 6    |   [摩西十诫与教会法](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/series06.md) |  2017-12-02  |[豆瓣同城](https://www.douban.com/event/29829659/),微信文案|
 | 7    |   [英国内战与议会民主](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/series07.md) |  2017-12-16 |[豆瓣同城](https://www.douban.com/event/29894461/),微信文案|
-| 8    |   [哈特法哲学的三组议题]() |  2018-01-06 |[豆瓣同城](https://www.douban.com/event/30001427/),微信文案|
+| 8    |   哈特法哲学的三组议题（当下活动） |  2018-01-06 |[豆瓣同城](https://www.douban.com/event/30001427/),微信文案|
 
 ## 组织介绍
 
 | [角色组织架构](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/RoleAndOrganizationalStructure.md)|[线下活动流程](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/WorkFlow.md)| 小额捐助制|
 | :-------- | --------:| :------: |
 | 豆瓣小站  |  微信公共号 | 轮值主席一览|
+
+## 各类技艺沉淀
+
+| [主持&控场的技艺](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/Art_of_Host.md)|[导读的技艺](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/Art_of_Guidance_to_Reading.md)| 读书会组织模式|
+| :-------- | --------:| :------: |
+| 社群运营  |  提问与引导的技艺 | 文案与宣传的技艺|
 
 ## 书单推荐
 | 书名     |     作者 |   链接   |类别|
