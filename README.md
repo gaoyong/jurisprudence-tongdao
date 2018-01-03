@@ -23,7 +23,7 @@
 
 ## 各类技艺沉淀
 
-| [主持&控场的技艺](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/Art_of_Host.md)|[导读的技艺](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/Art_of_Guidance_to_Reading.md)| 读书会组织模式|
+| [主持&控场的技艺](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/Art_of_Host.md)|[导读的技艺](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/Art_of_Guidance_to_Reading.md)| [组织的技艺](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/Art_of_Organize.md)|
 | :-------- | --------:| :------: |
 | 社群运营  |  提问与引导的技艺 | 文案与宣传的技艺|
 
