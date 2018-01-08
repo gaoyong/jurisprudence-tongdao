@@ -1,6 +1,6 @@
 ## 线下活动的工作流
 
-![image](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/images/workstream.jpg)
+![image](/images/workstream.jpg)
 
 精读模式的选书以专家意见为主要参考，目前实际上由创建者牵头选择，执行委员会讨论通过的形式确立。
 

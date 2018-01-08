@@ -2,7 +2,7 @@
 
 ## 哈特《法律的概念》全书导读 （高勇）
 
-[文档链接](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/Guide_to_The_Concept_of_Law.md)
+[文档链接](/doc/Guide_to_The_Concept_of_Law.md)
 
 ## 第一章第一节 导读（周玥）
 
