@@ -16,7 +16,7 @@
 | 6    |   [摩西十诫与教会法](/doc/series06.md) |  2017-12-02  |[豆瓣同城](https://www.douban.com/event/29829659/),微信文案|
 | 7    |   [英国内战与议会民主](/doc/series07.md) |  2017-12-16 |[豆瓣同城](https://www.douban.com/event/29894461/),微信文案|
 | 8    |   [哈特法哲学的三组议题](/doc/series08.md)  |  2018-01-06 |[豆瓣同城](https://www.douban.com/event/30001427/),微信文案|
-
+| 9    |   [从抢匪模型到“女王议会”（即将进行）](/doc/series09.md)  |  2018-01-20 |[豆瓣同城](https://www.douban.com/event/30059447/),微信文案|
 ## 组织介绍
 
 | [角色组织架构](/doc/RoleAndOrganizationalStructure.md)|[线下活动流程](/doc/WorkFlow.md)| 小额捐助制|
