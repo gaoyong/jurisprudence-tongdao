@@ -40,9 +40,11 @@
 |《欧洲法律史：从古希腊到里斯本条约》|乌维·维瑟尔 |[豆瓣](https://book.douban.com/subject/26803654/)|法制史|
 |《外国法制史》|王云霞等|[豆瓣](https://book.douban.com/subject/26306797/)|法制史|
 |《法律的概念》|哈特|[豆瓣](https://book.douban.com/subject/6803346/)|法哲学|
+|《法体系的概念》|拉兹|[豆瓣](https://book.douban.com/subject/1268814/)|法哲学|
 |《法哲学》|马默|[豆瓣](https://book.douban.com/subject/26220830/)|法哲学|
 |《法律的界限》|陈景辉|[豆瓣](https://book.douban.com/subject/2382182/)|法哲学|
 |《法律哲学》|考夫曼|[豆瓣](https://book.douban.com/subject/1266304/)|法哲学|
 |《法哲学：价值与事实》|瓦克斯|[豆瓣](https://book.douban.com/subject/24383568/)|法哲学|
 |《读懂法理学》|瓦克斯|[豆瓣](https://book.douban.com/subject/26832357/)|法哲学|
 |《像法律人那样思考》|弗里德里克·肖尔|[豆瓣](https://book.douban.com/subject/26835022/)|法哲学|
+|《合法性》|斯科特·夏皮罗|[豆瓣](https://book.douban.com/subject/26948910/)|法哲学|
