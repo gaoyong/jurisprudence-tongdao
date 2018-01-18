@@ -44,10 +44,17 @@
 
 换言之，最高院认为如果外国人没有处于过美国领土，则其不享有美国宪法权利。
 
-最高院的这一判决被布什政府利用，布什政府推翻阿富汗塔利班政权后逮捕了几百人— —其中有两人是美国公民，对于其余的非美国公民，只要别让他们踏上美国领土就行了， 于是将他们关押到了关塔那摩——关塔那摩并不是美国领土，是美国从古巴租赁的土地 (Agreement Between the United States and Cuba for the Lease of Lands for Coaling and Naval stations; February 23, 1903，The Republic of Cuba hereby leases to the United States, for the time required for the purposes of coaling and naval stations, the following described areas of land and water situated in the Island of Cuba: 1st. In Guantanamo (see Hydrographic Office Chart 1857).)。
+最高院的这一判决被布什政府利用，布什政府推翻阿富汗塔利班政权后逮捕了几百人— —其中有两人是美国公民，对于其余的非美国公民，只要别让他们踏上美国领土就行了， 于是将他们关押到了关塔那摩——关塔那摩并不是美国领土，是美国从古巴租赁的土地
 
-但最高法院没有支持布什政府，转而认为:Johnson 案件中德国人是战俘，德国是与美国 交战的国家，但阿富汗并不是与美国交战的国家，换言之，对塔利班的军事行动并没有按 照宪法的要求由国会宣战。(注意国会确实没对阿富汗宣战，但好像也不能算没有没对阿 富汗宣战，布什政府发动战争的法律依据是 911 之后国会的 Authorization for Use of Military Force Against Terrorists，即 AUMF，的第二条，That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons.)国会于 2005 年立法推翻了这一判决。
+> (Agreement Between the United States and Cuba for the Lease of Lands for Coaling and Naval stations; February 23, 1903，The Republic of Cuba hereby leases to the United States, for the time required for the purposes of coaling and naval stations, the following described areas of land and water situated in the Island of Cuba: 1st. In Guantanamo (see Hydrographic Office Chart 1857).)。
+
+但最高法院没有支持布什政府，转而认为:Johnson 案件中德国人是战俘，德国是与美国 交战的国家，但阿富汗并不是与美国交战的国家，换言之，对塔利班的军事行动并没有按 照宪法的要求由国会宣战。(注意国会确实没对阿富汗宣战，但好像也不能算没有没对阿 富汗宣战，布什政府发动战争的法律依据是 911 之后国会的 Authorization for Use of Military Force Against Terrorists，即 AUMF，的第二条，
+
+> That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons.)
+
+国会于 2005 年立法推翻了这一判决。
+
 两名美国人，一名对美国政府认罪，另一名则踏上了和美国政府的诉讼之路。为了继续我 们的讨论，这里我们必须提到一个重要的区分(同时也是总结前文)就是战俘和犯罪嫌疑 人，前者是针对战斗人员，后者是针对非战斗人员。
 
 对于战俘，可以于战争期间长期关押，只要给予人道待遇，目的是防止其回国再次拿起武 器。对于犯罪嫌疑人，不可以长期关押，关押的目的只是防止其逃匿或者防止其犯罪，所 以应该尽快告知其诉讼权利、告知其涉嫌的罪名、如果需要进一步关押等待后续刑事诉讼 程序，则需要法院批准。
-AUMF 明确将恐怖分子列为战斗人员，但如果战斗人员同时是本国公民呢?那么总统可以 把本国公民当作战俘长期关押吗，如果可以，这有没有侵犯其宪法权利。HAMDI V. RUMSFELD (03-6696) 542 U.S. 507 (2004)中，最高院十分聪明的解决了这个问题，在这一 裁定中，最高院裁决:(1)总统可以按照 AUMF 授权将本国公民长期关押为战俘;和(2) 本国宪法的宪法权利，本身既然是程序性权利，正当程序等等，在于确保判断其为恐怖分 子的程序。
+AUMF 明确将恐怖分子列为战斗人员，但如果战斗人员同时是本国公民呢?那么总统可以 把本国公民当作战俘长期关押吗，如果可以，这有没有侵犯其宪法权利。HAMDI V. RUMSFELD (03-6696) 542 U.S. 507 (2004)中，最高院十分聪明的解决了这个问题，在这一裁定中，最高院裁决:(1)总统可以按照 AUMF 授权将本国公民长期关押为战俘;和(2) 本国宪法的宪法权利，本身既然是程序性权利，正当程序等等，在于确保判断其为恐怖分 子的程序。
