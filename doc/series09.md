@@ -65,8 +65,8 @@
 
 ## 《利维坦》中的主权者与法律(灰袍)
 
-[原文链接](/doc/Guide_to_The_Jurisprudence_of_Leviathan.md) 
+[原文链接](/doc/Guide_to_The_Jurisprudence_of_Leviathan.md)
 
 ## 紧急立宪主义与战争状态——以美国法为例（周玥）
 
-[原文链接](/doc/Emergency_Consitutionalism.md)
+[原文链接](/doc/Emergency_Constitutionalism.md)
