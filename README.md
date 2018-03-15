@@ -30,7 +30,7 @@
 
 | [主持&控场的技艺](/doc/Art_of_Host.md)|[导读的技艺](/doc/Art_of_Guidance_to_Reading.md)| [组织的技艺](/doc/Art_of_Organize.md)|
 | :-------- | --------:| :------: |
-| 社群运营  |  提问与引导的技艺 | 文案与宣传的技艺|
+| [空间的技艺](/doc/Art_of_Space.md)  |  [提问&引导的技艺](/doc/Art_of_Ask.md) | 文案与宣传的技艺|
 
 ## 书单推荐
 | 书名     |     作者 |   链接   |类别|
