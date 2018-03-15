@@ -18,6 +18,7 @@
 | 8    |   [哈特法哲学的三组议题](/doc/series08.md)  |  2018-01-06 |[豆瓣同城](https://www.douban.com/event/30001427/),微信文案|
 | 9    |   [从抢匪模型到“女王议会”](/doc/series09.md)  |  2018-01-20 |[豆瓣同城](https://www.douban.com/event/30059447/),微信文案|
 | 10    |   [法律的多样性——OBBT模型的质疑](/doc/series10.md)  |  2018-03-03 |[豆瓣同城](https://www.douban.com/event/30211439/),微信文案|
+| 11    |   [主权者与臣民——SCO模型的分析质疑](/doc/series11.md)  |  2018-03-17 |[豆瓣同城](https://www.douban.com/event/30261873/),微信文案|
 
 ## 组织介绍
 
