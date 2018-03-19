@@ -17,6 +17,9 @@
 | 7    |   [英国内战与议会民主](/doc/series07.md) |  2017-12-16 |[豆瓣同城](https://www.douban.com/event/29894461/),微信文案|
 | 8    |   [哈特法哲学的三组议题](/doc/series08.md)  |  2018-01-06 |[豆瓣同城](https://www.douban.com/event/30001427/),微信文案|
 | 9    |   [从抢匪模型到“女王议会”](/doc/series09.md)  |  2018-01-20 |[豆瓣同城](https://www.douban.com/event/30059447/),微信文案|
+| 10    |   [法律的多样性——OBBT模型的质疑](/doc/series10.md)  |  2018-03-03 |[豆瓣同城](https://www.douban.com/event/30211439/),微信文案|
+| 11    |   [主权者与臣民——SCO模型的分析质疑](/doc/series11.md)  |  2018-03-17 |[豆瓣同城](https://www.douban.com/event/30261873/),微信文案|
+
 ## 组织介绍
 
 | [角色组织架构](/doc/RoleAndOrganizationalStructure.md)|[线下活动流程](/doc/WorkFlow.md)| 小额捐助制|
@@ -27,7 +30,7 @@
 
 | [主持&控场的技艺](/doc/Art_of_Host.md)|[导读的技艺](/doc/Art_of_Guidance_to_Reading.md)| [组织的技艺](/doc/Art_of_Organize.md)|
 | :-------- | --------:| :------: |
-| 社群运营  |  提问与引导的技艺 | 文案与宣传的技艺|
+| [空间的技艺](/doc/Art_of_Space.md)  |  [提问&引导的技艺](/doc/Art_of_Ask.md) | 文案与宣传的技艺|
 
 ## 书单推荐
 | 书名     |     作者 |   链接   |类别|
