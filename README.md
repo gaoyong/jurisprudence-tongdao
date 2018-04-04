@@ -25,7 +25,7 @@
 
 | [角色组织架构](/doc/RoleAndOrganizationalStructure.md)|[线下活动流程](/doc/WorkFlow.md)| 小额捐助制|
 | :-------- | --------:| :------: |
-| 豆瓣小站  |  微信公共号 | 轮值主席一览|
+| 豆瓣小站  |  微信公共号 | [轮值主席一览](/doc/chairmanList.md)|
 
 ## 各类技艺沉淀
 
