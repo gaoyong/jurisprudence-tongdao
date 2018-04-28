@@ -19,12 +19,15 @@
 | 9    |   [从抢匪模型到“女王议会”](/doc/series09.md)  |  2018-01-20 |[豆瓣同城](https://www.douban.com/event/30059447/),微信文案|
 | 10    |   [法律的多样性——OBBT模型的质疑](/doc/series10.md)  |  2018-03-03 |[豆瓣同城](https://www.douban.com/event/30211439/),微信文案|
 | 11    |   [主权者与臣民——SCO模型的分析质疑](/doc/series11.md)  |  2018-03-17 |[豆瓣同城](https://www.douban.com/event/30261873/),微信文案|
+| 12    |   [法国大革命与人民主权](/doc/series12.md)  |  2018-03-31 |[豆瓣同城](https://www.douban.com/event/30327164/),微信文案|
+| 13    |   [哈特法哲学核心——初级规则与次级规则](/doc/series13.md)  |  2018-04-14 |[豆瓣同城](https://www.douban.com/event/30385774/),微信文案|
+| 14    |   [法体系的基础——探问承认规则](/doc/series14.md)  |  2018-04-29 |[豆瓣同城](https://www.douban.com/event/30474230/),微信文案|
 
 ## 组织介绍
 
 | [角色组织架构](/doc/RoleAndOrganizationalStructure.md)|[线下活动流程](/doc/WorkFlow.md)| 小额捐助制|
 | :-------- | --------:| :------: |
-| 豆瓣小站  |  微信公共号 | 轮值主席一览|
+| 豆瓣小站  |  微信公共号 | [轮值主席一览](/doc/chairmanList.md)|
 
 ## 各类技艺沉淀
 
