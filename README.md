@@ -23,7 +23,7 @@
 | 13    |   [哈特法哲学核心——初级规则与次级规则](/doc/series13.md)  |  2018-04-14 |[豆瓣同城](https://www.douban.com/event/30385774/),微信文案|
 | 14    |   [法体系的基础——探问承认规则](/doc/series14.md)  |  2018-04-29 |[豆瓣同城](https://www.douban.com/event/30474230/),微信文案|
 | 15    |   [法律文本是规则么——哈特谈形式主义与规则怀疑论](/doc/series15.md)  |  2018-05-12 |[豆瓣同城](https://www.douban.com/event/30552638/),微信文案|
-| 16    |   [法律、正义与道德的相对关系](/doc/series15.md)  |  2018-05-26 |[豆瓣同城](https://www.douban.com/event/30599281/),微信文案|
+| 16    |   [法律、正义与道德的相对关系](/doc/series16.md)  |  2018-05-26 |[豆瓣同城](https://www.douban.com/event/30599281/),微信文案|
 
 ## 组织介绍
 
