@@ -22,6 +22,8 @@
 | 12    |   [法国大革命与人民主权](/doc/series12.md)  |  2018-03-31 |[豆瓣同城](https://www.douban.com/event/30327164/),微信文案|
 | 13    |   [哈特法哲学核心——初级规则与次级规则](/doc/series13.md)  |  2018-04-14 |[豆瓣同城](https://www.douban.com/event/30385774/),微信文案|
 | 14    |   [法体系的基础——探问承认规则](/doc/series14.md)  |  2018-04-29 |[豆瓣同城](https://www.douban.com/event/30474230/),微信文案|
+| 15    |   [法律文本是规则么——哈特谈形式主义与规则怀疑论](/doc/series15.md)  |  2018-05-12 |[豆瓣同城](https://www.douban.com/event/30552638/),微信文案|
+| 16    |   [法律、正义与道德的相对关系](/doc/series15.md)  |  2018-05-26 |[豆瓣同城](https://www.douban.com/event/30599281/),微信文案|
 
 ## 组织介绍
 
@@ -30,6 +32,8 @@
 | 豆瓣小站  |  微信公共号 | [轮值主席一览](/doc/chairmanList.md)|
 
 ## 各类技艺沉淀
+
+[常见问题讨论与解答](/doc/FAQ.md)
 
 | [主持&控场的技艺](/doc/Art_of_Host.md)|[导读的技艺](/doc/Art_of_Guidance_to_Reading.md)| [组织的技艺](/doc/Art_of_Organize.md)|
 | :-------- | --------:| :------: |
@@ -46,6 +50,7 @@
 |《欧洲法律史：从古希腊到里斯本条约》|乌维·维瑟尔 |[豆瓣](https://book.douban.com/subject/26803654/)|法制史|
 |《外国法制史》|王云霞等|[豆瓣](https://book.douban.com/subject/26306797/)|法制史|
 |《法律的概念》|哈特|[豆瓣](https://book.douban.com/subject/6803346/)|法哲学|
+|《大师学述:哈特》|麦克密克|[豆瓣](https://book.douban.com/subject/5247852/)|法哲学|
 |《法体系的概念》|拉兹|[豆瓣](https://book.douban.com/subject/1268814/)|法哲学|
 |《正义法的理论》|施特勒姆|[豆瓣](https://book.douban.com/subject/26639446/)|法哲学|
 |《法哲学》|马默|[豆瓣](https://book.douban.com/subject/26220830/)|法哲学|
