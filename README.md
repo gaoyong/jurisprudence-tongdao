@@ -24,6 +24,8 @@
 | 14    |   [法体系的基础——探问承认规则](/doc/series14.md)  |  2018-04-29 |[豆瓣同城](https://www.douban.com/event/30474230/),微信文案|
 | 15    |   [法律文本是规则么——哈特谈形式主义与规则怀疑论](/doc/series15.md)  |  2018-05-12 |[豆瓣同城](https://www.douban.com/event/30552638/),微信文案|
 | 16    |   [法律、正义与道德的相对关系](/doc/series16.md)  |  2018-05-26 |[豆瓣同城](https://www.douban.com/event/30599281/),微信文案|
+| 17    |   [自然法的最低限度内容](/doc/series17.md)  |  2018-06-09 |[豆瓣同城](https://www.douban.com/event/30671529/),微信文案|
+| 18    |   [国际法是严格的法么？](/doc/series18.md)  |  2018-06-30 |[豆瓣同城](https://www.douban.com/event/30764308/),微信文案|
 
 ## 组织介绍
 
@@ -49,6 +51,7 @@
 |《新编西方法律思想史（现代、当代部分）》|高鸿钧/赵晓力|[豆瓣](https://book.douban.com/subject/26644817/)|法学史|
 |《欧洲法律史：从古希腊到里斯本条约》|乌维·维瑟尔 |[豆瓣](https://book.douban.com/subject/26803654/)|法制史|
 |《外国法制史》|王云霞等|[豆瓣](https://book.douban.com/subject/26306797/)|法制史|
+|《比较法总论》|茨威格特、克茨|[豆瓣](https://book.douban.com/subject/26992463/)|比较法学|
 |《法律的概念》|哈特|[豆瓣](https://book.douban.com/subject/6803346/)|法哲学|
 |《大师学述:哈特》|麦克密克|[豆瓣](https://book.douban.com/subject/5247852/)|法哲学|
 |《法体系的概念》|拉兹|[豆瓣](https://book.douban.com/subject/1268814/)|法哲学|
