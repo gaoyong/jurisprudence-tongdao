@@ -1,7 +1,7 @@
 # 第14次活动内容与记录
 
 **《法律的概念》第六章 法体系的基础**
-![image](/images/chapter10_of_The_Concept_of_Law.jpg)
+![image](/images/chapter6_of_The_Concept_of_Law.jpg)
 
 
 ## 第一节 承认规则与法效力 （李少婷）
