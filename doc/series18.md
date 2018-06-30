@@ -91,20 +91,27 @@
 2. 国际法在诸多内容上无涉道德
 ```diff
 
-+ 确定性或效率导向的技术规则，可更易，靠右走=靠左走
++ 确定性或效率导向的技术规则，可替换，如靠右走这一规则可替换为靠左走
 + 道德内在地、自然地重要、不可更易
 
 ```
 3. 国际法内容可以立法变更或废止，但道德无法这么被主观变更（只能是缓慢变更，如同社会道德一样）
 ```diff
 
-+道德是评判行为的最终标准
++道德是行为的最终标准
 
 ```
 哈特也不否认国际法和道德之间存在的紧密相关性：
 
 国家可能出于一种义务感（也是一种道德感）而遵守国际法，尽该国应尽的国际义务。
 
+正如不能从人守法动机含道德推出国内法的基础是道德，不能由此推出国际法的基础是道德。二者守法动机都可能无关道德。
+```diff
+
+多种动机fear/morality/self-interest→守法的内在面向determination to obey→守法的外在面向act of obedience
+OBBT模型错误地将动机限缩为仅fear一种。
+
+```
 正如不能从人守法动机含道德推出国内法的基础是道德，不能由此推出国际法的基础是道德。二者守法动机都可能无关道德。
 
 ## 第五节 形式与内容的类比
@@ -120,7 +127,7 @@
 1、只有国家自愿同意，国家才会愿意通过国际法庭解决冲突，否则国际法庭无管辖权。
 ```diff
 
-+2、自卫权类比忽略了：国内法庭能且应该审查自卫权，国际法庭不能
++2、国内法的自助行为-国际法的自卫权类比忽略了：国内法庭有权且有义务审查自卫权成立要件，国际法庭无权主动审查
 
 ```
 类比二：法律规范的类比
@@ -137,15 +144,16 @@
 
 
 ```diff
-+一lacking legislation, compulsory jurisdiction or sanction
-+wrong analogies
-+1.legislation: treaties depriving the defeated or extorted by violence sometimes gain recognition.
-+2.compulsory jurisdiction:
-+judgments of international courts are duly executed😛countries only sue if willing to execute!
-+municipal courts can and must judge 'self help' and punish its misuse, while international court cannot!
-+3.sanction: treaties depriving the defeated
-the Charter fantom
-+二、内部结构异于国内法form: lack SR
+一lacking legislation, compulsory jurisdiction or sanction
+一、wrong analogies
+1.legislation: treaties depriving the defeated or extorted by violence sometimes gain recognition.
+2.compulsory jurisdiction:
+judgments of international courts are duly executed驳countries only sue if willing to execute!
+municipal courts can and must judge 'self help' and punish its misuse, while international court cannot!
+3.sanction: treaties depriving the defeated
+
+二、内部结构异于国内法
+form: lack SR
 
 +1、现状
 +1.效力基于非缔约国的公约罕见，仅《联合国宪章》2.6“本组织在维持国际和平及安全之必要范围内应保证非联合国会员国遵守上述原则(指联合国宪章规定的基本原则) 
@@ -154,7 +162,7 @@ RR cannot be pacta sunt servanda/'States should behave as they customarily behav
 +2、影响
 +unnecessary for validity, validity require merely facts of laws being accepting and functioning as such, instead of SR, which +is a luxury only in advanced societies.
 
-+简单社会无承认规则，但法律仍有基础，即人们认可并执行之的现实。复杂社会才有承认规则，而这只不过是效力的出生证明，而非亲妈。
++简单社会无承认规则，但法律体系仍有其基础、法律仍有效：被普遍认可并执行。复杂社会才有承认规则，而这只不过是效力的出生证明，而非亲妈。
 |    VS  |     国际法 |   国内法   |*|
 | :-------- | --------:| :------: |:------: |
 |内部结构|无次级规则|有次级规则|法体系基础不限于次级规则，可为普遍认可这一事实；承认规则是高级社会才有的奢侈品。|
@@ -169,5 +177,5 @@ RR cannot be pacta sunt servanda/'States should behave as they customarily behav
 | |遗嘱需几人在场|不能遗赠小三||
 | |船能停港几天|《一个都不能少》、朱自清不吃救济粮|-|
 | |领水多宽|-|-|
-
+高老师救救场 这表格咋整
 ```
