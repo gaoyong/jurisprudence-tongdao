@@ -74,7 +74,12 @@
 ## 第四节 国际法与道德
 
 本节所分析批驳和力图澄清的一个观点在于 国际法不同于普通的国家之间的道德。
+```diff
 
++先追溯SR enables&faciliates identification&change&application of rules.
+承认国际法与道德有共同点similiar: no threat
+
+```
 哈特给出 如下几方面的理由说明 国际法不同于道德，其实国际法带有“法”的那一面特征
 
 1. 国际法规则下的多数评价不同于道德评价
@@ -130,9 +135,39 @@
 
 探讨问题：国际法是否需要基础规范来统一？
 
-```diff
 
-+###承认规则是奢侈品而非必需品。
+```diff
++一lacking legislation, compulsory jurisdiction or sanction
++wrong analogies
++1.legislation: treaties depriving the defeated or extorted by violence sometimes gain recognition.
++2.compulsory jurisdiction:
++judgments of international courts are duly executed😛countries only sue if willing to execute!
++municipal courts can and must judge 'self help' and punish its misuse, while international court cannot!
++3.sanction: treaties depriving the defeated
+the Charter fantom
++二、内部结构异于国内法form: lack SR
+
++1、现状
++1.效力基于非缔约国的公约罕见，仅《联合国宪章》2.6“本组织在维持国际和平及安全之必要范围内应保证非联合国会员国遵守上述原则(指联合国宪章规定的基本原则) 
++2.basic RR provide Kelsen's 'reason of its validity' but are not facts of accepting law
+RR cannot be pacta sunt servanda/'States should behave as they customarily behave'
++2、影响
++unnecessary for validity, validity require merely facts of laws being accepting and functioning as such, instead of SR, which +is a luxury only in advanced societies.
+
 +简单社会无承认规则，但法律仍有基础，即人们认可并执行之的现实。复杂社会才有承认规则，而这只不过是效力的出生证明，而非亲妈。
+|    VS  |     国际法 |   国内法   |*|
+| :-------- | --------:| :------: |:------: |
+|内部结构|无次级规则|有次级规则|法体系基础不限于次级规则，可为普遍认可这一事实；承认规则是高级社会才有的奢侈品。|
+|  VS    |国际法|道德|*|
+|功能|  确定化、提高效率，为其他价值提供手段 formal,arbitrary | 为行为提供终极判准，自身即重要、不可取代 |技术规则|
+|要件|无需动机|需动机||
+|指引/评价行为的方法|不靠良心愧疚看结果|靠内心愧疚感看动机|与国内法强制力对比|
+|文件|有，条约先例学说 |无|-|
+|演变|可人为废旧立新 |不可人为|但国际法立法不基于次级规则|
+
+|🌰|严格责任|不知者无罪、康德“善良意志”||
+| |遗嘱需几人在场|不能遗赠小三||
+| |船能停港几天|《一个都不能少》、朱自清不吃救济粮|-|
+| |领水多宽|-|-|
 
 ```
