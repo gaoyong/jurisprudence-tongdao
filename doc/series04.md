@@ -95,7 +95,7 @@
 
 即既要求社会的进步，又要求一定的基本自由来保障这种进步。
 
-![边沁和密尔的功利主义](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/images/BenthamAndMill.jpg)
+![边沁和密尔的功利主义](/images/BenthamAndMill.jpg)
 
 
   具体来看，边沁和密尔的功利原则有和不同呢?

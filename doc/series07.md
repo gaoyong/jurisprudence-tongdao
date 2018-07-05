@@ -120,6 +120,6 @@ head; but always and only on condition that religion is kept inviolate.”(四�
 (3)议员言论特权。(《全国人民代表大会和地方各级人民代表大会代表法》第 三十一条:“代表在人民代表大会各种会议上的发言和表决，不受法律追究。”)
 
 ### 从克伦威尔到光荣革命（扫雷）
-[文档链接](https://github.com/gaoyong/jurisprudence-tongdao/blob/master/doc/FromCromwellToTheGloriousRevolution.md)
+[文档链接](/doc/FromCromwellToTheGloriousRevolution.md)
 
 ### 洛克的正当战争学说（Shuo） 内容和版权归发言人保留
