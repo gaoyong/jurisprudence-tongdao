@@ -83,24 +83,19 @@
 哈特给出 如下几方面的理由说明 国际法不同于道德，其实国际法带有“法”的那一面特征
 
 1. 国际法规则下的多数评价不同于道德评价
-```diff
 
-+ 诉诸先例、条约、法学学说而非良心、愧疚感
+ 国际法的评判诉诸先例、条约、法学学说而非良心、愧疚感。
 
-```
 2. 国际法在诸多内容上无涉道德
 ```diff
 
 + 确定性或效率导向的技术规则，可替换，如靠右走这一规则可替换为靠左走
 + 道德内在地、自然地重要、不可更易
 
-```
+ 国际法很多是单纯为确定性或效率导向的技术规则，没有道德的内容。还有国际法的内容属于惯习性的仪礼性规定。
+
 3. 国际法内容可以立法变更或废止，但道德无法这么被主观变更（只能是缓慢变更，如同社会道德一样）
-```diff
 
-+道德是行为的最终标准
-
-```
 哈特也不否认国际法和道德之间存在的紧密相关性：
 
 国家可能出于一种义务感（也是一种道德感）而遵守国际法，尽该国应尽的国际义务。
@@ -125,9 +120,9 @@ OBBT模型错误地将动机限缩为仅fear一种。
 哈特指出这种类比所忽略的关键事实——
 
 1、只有国家自愿同意，国家才会愿意通过国际法庭解决冲突，否则国际法庭无管辖权。
-```diff
 
-+2、国内法的自助行为-国际法的自卫权类比忽略了：国内法庭有权且有义务审查自卫权成立要件，国际法庭无权主动审查
+2、国内法的自助行为-国际法的自卫权类比忽略了：国内法庭有权且有义务审查自卫权成立要件，国际法庭无权主动审查
+
 
 ```
 类比二：法律规范的类比
@@ -141,41 +136,3 @@ OBBT模型错误地将动机限缩为仅fear一种。
 > 尽管对现象的不同诠释是可能的，但人们大多已经承认，在国际法上不存在基本规范，以供国际法效力的一般性准则，并且，实际上在国际法上发生作用的那些规则，并未构成一套体系，而仅是一组个别的规则，其中包括提供条约拘束力的这个重要规则。p.206
 
 探讨问题：国际法是否需要基础规范来统一？
-
-
-```diff
-一lacking legislation, compulsory jurisdiction or sanction
-一、wrong analogies
-1.legislation: treaties depriving the defeated or extorted by violence sometimes gain recognition.
-2.compulsory jurisdiction:
-judgments of international courts are duly executed驳countries only sue if willing to execute!
-municipal courts can and must judge 'self help' and punish its misuse, while international court cannot!
-3.sanction: treaties depriving the defeated
-
-二、内部结构异于国内法
-form: lack SR
-
-+1、现状
-+1.效力基于非缔约国的公约罕见，仅《联合国宪章》2.6“本组织在维持国际和平及安全之必要范围内应保证非联合国会员国遵守上述原则(指联合国宪章规定的基本原则) 
-+2.basic RR provide Kelsen's 'reason of its validity' but are not facts of accepting law
-RR cannot be pacta sunt servanda/'States should behave as they customarily behave'
-+2、影响
-+unnecessary for validity, validity require merely facts of laws being accepting and functioning as such, instead of SR, which +is a luxury only in advanced societies.
-
-+简单社会无承认规则，但法律体系仍有其基础、法律仍有效：被普遍认可并执行。复杂社会才有承认规则，而这只不过是效力的出生证明，而非亲妈。
-|    VS  |     国际法 |   国内法   |*|
-| :-------- | --------:| :------: |:------: |
-|内部结构|无次级规则|有次级规则|法体系基础不限于次级规则，可为普遍认可这一事实；承认规则是高级社会才有的奢侈品。|
-|  VS    |国际法|道德|*|
-|功能|  确定化、提高效率，为其他价值提供手段 formal,arbitrary | 为行为提供终极判准，自身即重要、不可取代 |技术规则|
-|要件|无需动机|需动机||
-|指引/评价行为的方法|不靠良心愧疚看结果|靠内心愧疚感看动机|与国内法强制力对比|
-|文件|有，条约先例学说 |无|-|
-|演变|可人为废旧立新 |不可人为|但国际法立法不基于次级规则|
-
-|🌰|严格责任|不知者无罪、康德“善良意志”||
-| |遗嘱需几人在场|不能遗赠小三||
-| |船能停港几天|《一个都不能少》、朱自清不吃救济粮|-|
-| |领水多宽|-|-|
-高老师救救场 这表格咋整
-```

@@ -2,7 +2,7 @@
 
 **哈特《法律的概念》 第七章 形式主义与规则怀疑论**
 
-![image](/images/chapter7_of_The_Concept_of_Law.jpg)
+![image](http://pb2t9xrns.bkt.clouddn.com/chapter7_of_The_Concept_of_Law.jpg)
 
 ## 第一节 法律的开放性结构
 
