@@ -173,8 +173,11 @@ can be legislatively changed
 > 尽管对现象的不同诠释是可能的，但人们大多已经承认，在国际法上不存在基本规范，以供国际法效力的一般性准则，并且，实际上在国际法上发生作用的那些规则，并未构成一套体系，而仅是一组个别的规则，其中包括提供条约拘束力的这个重要规则。p.206
 
 探讨问题：国际法是否需要基础规范来统一？
+
+
+
 ```diff
-•	lacking legislation, compulsory jurisdiction or sanction
+• 缺乏立法, compulsory jurisdiction or sanction
 
 •	wrong analogies
 1.legislation: the defeated countries recognize treaties depriving them extorted by violence, which can be called legislation.
