@@ -3,15 +3,15 @@
 ## 社群活动
 同道法哲学系列，民间以兴趣为结合点的自组织社群，讨论和学习法哲学知识，拓展社群参与者的知识视野。
 
-### 目录
+## 目录
 - [活动记录](#activity-records)
 - [组织介绍](#structure-desc)
 - [活动沉淀](#art-list)
-- [书单推荐](#recommend-books)
+- [推荐书单](#recommend-books)
 - [关于我们](#about-us)
 
---------------
-<h3 id="activity-records">活动记录（持续更新）</h3>
+
+<h2 id="activity-records">活动记录（持续更新）</h2>
 
 | 序列      |     标题 |   时间   | 链接|
 | :-------- | --------:| :------: |:------: |
@@ -34,8 +34,8 @@
 | 17    |   [自然法的最低限度内容](/doc/series17.md)  |  2018-06-09 |[豆瓣同城](https://www.douban.com/event/30671529/),微信文案|
 | 18    |   [国际法是严格的法么？](/doc/series18.md)  |  2018-06-30 |[豆瓣同城](https://www.douban.com/event/30764308/),微信文案|
 
---------------
-<h3 id="structure-desc">组织介绍</h3>
+
+<h2 id="structure-desc">组织介绍</h2>
 
 * [角色组织架构](/doc/RoleAndOrganizationalStructure.md)
 * [线下活动流程](/doc/WorkFlow.md)
@@ -43,8 +43,8 @@
 * 小额捐助制
 
 
---------------
-<h3 id="art-list">活动沉淀</h3>
+
+<h2 id="art-list">活动沉淀</h2>
 
 * [主持与控场](/doc/Art_of_Host.md)
 * [导读的技艺](/doc/Art_of_Guidance_to_Reading.md)
@@ -53,13 +53,13 @@
 * [提问和引导](/doc/Art_of_Ask.md)
 * [文案与宣传]()
 
---------------
-<h3 id="recommend-books">推荐书单</h3>
+
+<h2 id="recommend-books">推荐书单</h2>
 
 * [推荐书单](/doc/recommendBooks.md)
 
---------------
-<h3 id="about-us">关于我们</h3>
+
+<h2 id="about-us">关于我们</h2>
 
 * [活动发起者自述](/doc/Intention.md)
 * [常见问题讨论与解答](/doc/FAQ.md)
