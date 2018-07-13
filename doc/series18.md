@@ -111,6 +111,38 @@
 
 国家可能出于一种义务感（也是一种道德感）而遵守国际法，尽该国应尽的国际义务。
 
+```diff
+
+SR enables&faciliates identification&change&application of rules.
+
+同no threat
+
+异different content/nature/function→different form
+
+1the ultimate standard of human actions, intrinsic importance&preferable (with few exceptions)
+certainty, efficiency
+例strict liability
+
+2element: motive
+element: motive-irrelevant. formal/arbitrary, formalities, formalism&legalism
+例一how many witnesses a validly executed will must have
+例二time a belligerent vessel may stay for refuelling or repairs in a port
+例三width of territorial waters and measurement
+例四what was or was not 'law' in the territory during the period of interruption
+foundation=validity = external obedience and function, regardless of motive
+'they may obey each 'for his part only' and from any motive whatever'
+
+3moral pressure concerning conscience, guilt or shame
+punish, not moral blame
+
+4cannot be legislatively changed
+can be legislatively changed
+
+5无书面文件
+不能诉诸道德感故需见于书面traditional source：precedents, treaties and juristic writings
+
+
+```
 
 ## 第五节 形式与内容的类比
 
@@ -141,3 +173,27 @@
 > 尽管对现象的不同诠释是可能的，但人们大多已经承认，在国际法上不存在基本规范，以供国际法效力的一般性准则，并且，实际上在国际法上发生作用的那些规则，并未构成一套体系，而仅是一组个别的规则，其中包括提供条约拘束力的这个重要规则。p.206
 
 探讨问题：国际法是否需要基础规范来统一？
+
+
+
+```diff
+• 缺乏立法, compulsory jurisdiction or sanction
+
+•	wrong analogies
+1.legislation: the defeated countries recognize treaties depriving them extorted by violence, which can be called legislation.
+2.compulsory jurisdiction: 
+judgments of international courts are duly executed😛countries only sue if willing to execute. 
+municipal courts can and must judge 'self help' and punish its misuse, while international court cannot!
+
+3.sanction: treaties depriving the defeated
+
+•	form: lack SR
+1.含义
+效力及于非缔约国的公约是罕见特例，仅《联合国宪章》而已。
+basic RR provide 'reason of its validity'(Kelsen) but are not facts of accepting law
+RR cannot be pacta sunt servanda/'States should behave as they customarily behave'
+2.影响unnecessary for validity! validity require merely facts of laws being accepting and functioning as such, instead of SR, which is a luxury only in advanced societies.
+
+•	content: similar
+
+```

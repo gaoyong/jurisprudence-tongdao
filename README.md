@@ -1,11 +1,18 @@
 # 同道学园法哲学系列读书会
 
-## 活动简介
-同道法哲学系列读书会活动坚持自主发展、非盈利目的的读书会活动模式，为大家创造一个良好的知识分享和话题讨论平台，旨在传播法学知识、拓展参与者的法学视野和激发阅读兴趣，兼具提供知识社交的服务。
+## 社群活动
+同道法哲学系列，民间以兴趣为结合点的自组织社群，讨论和学习法哲学知识，拓展社群参与者的知识视野。
 
- [发起法哲学系列活动的初衷（自述）](/doc/Intention.md)
+## 目录
+- [活动记录](#activity-records)
+- [组织介绍](#structure-desc)
+- [活动沉淀](#art-list)
+- [推荐书单](#recommend-books)
+- [关于我们](#about-us)
 
-## 活动记录（持续更新）
+
+<h2 id="activity-records">活动记录（持续更新）</h2>
+
 | 序列      |     标题 |   时间   | 链接|
 | :-------- | --------:| :------: |:------: |
 | 1    |   [共读法哲学](/doc/series01.md) |  2017-09-24  |[豆瓣同城](https://www.douban.com/event/29477807/),微信文案|
@@ -27,39 +34,34 @@
 | 17    |   [自然法的最低限度内容](/doc/series17.md)  |  2018-06-09 |[豆瓣同城](https://www.douban.com/event/30671529/),微信文案|
 | 18    |   [国际法是严格的法么？](/doc/series18.md)  |  2018-06-30 |[豆瓣同城](https://www.douban.com/event/30764308/),微信文案|
 
-## 组织介绍
 
-| [角色组织架构](/doc/RoleAndOrganizationalStructure.md)|[线下活动流程](/doc/WorkFlow.md)| 小额捐助制|
-| :-------- | --------:| :------: |
-| 豆瓣小站  |  微信公共号 | [轮值主席一览](/doc/chairmanList.md)|
+<h2 id="structure-desc">组织介绍</h2>
 
-## 各类技艺沉淀
+* [角色组织架构](/doc/RoleAndOrganizationalStructure.md)
+* [线下活动流程](/doc/WorkFlow.md)
+* [轮值主席一览](/doc/chairmanList.md)
+* 小额捐助制
 
-[常见问题讨论与解答](/doc/FAQ.md)
 
-| [主持&控场的技艺](/doc/Art_of_Host.md)|[导读的技艺](/doc/Art_of_Guidance_to_Reading.md)| [组织的技艺](/doc/Art_of_Organize.md)|
-| :-------- | --------:| :------: |
-| [空间的技艺](/doc/Art_of_Space.md)  |  [提问&引导的技艺](/doc/Art_of_Ask.md) | 文案与宣传的技艺|
 
-## 书单推荐
-| 书名     |     作者 |   链接   |类别|
-| :-------- | --------:| :------: |:------: |
-|《法律是什么》|长谷部恭男|[豆瓣](https://book.douban.com/subject/26637992/)|法哲学入门|
-|《法律是什么》|刘星|[豆瓣](https://book.douban.com/subject/26698373/)|法哲学入门|
-|  《西方法学史纲》  |  何勤华  | [豆瓣](https://book.douban.com/subject/26871420/) |法学史|
-|《法理学：从古希腊到后现代》|莫里森|[豆瓣](https://book.douban.com/subject/1248159/)|法学史|
-|《新编西方法律思想史（现代、当代部分）》|高鸿钧/赵晓力|[豆瓣](https://book.douban.com/subject/26644817/)|法学史|
-|《欧洲法律史：从古希腊到里斯本条约》|乌维·维瑟尔 |[豆瓣](https://book.douban.com/subject/26803654/)|法制史|
-|《外国法制史》|王云霞等|[豆瓣](https://book.douban.com/subject/26306797/)|法制史|
-|《比较法总论》|茨威格特、克茨|[豆瓣](https://book.douban.com/subject/26992463/)|比较法学|
-|《法律的概念》|哈特|[豆瓣](https://book.douban.com/subject/6803346/)|法哲学|
-|《大师学述:哈特》|麦克密克|[豆瓣](https://book.douban.com/subject/5247852/)|法哲学|
-|《法体系的概念》|拉兹|[豆瓣](https://book.douban.com/subject/1268814/)|法哲学|
-|《正义法的理论》|施特勒姆|[豆瓣](https://book.douban.com/subject/26639446/)|法哲学|
-|《法哲学》|马默|[豆瓣](https://book.douban.com/subject/26220830/)|法哲学|
-|《法律的界限》|陈景辉|[豆瓣](https://book.douban.com/subject/2382182/)|法哲学|
-|《法律哲学》|考夫曼|[豆瓣](https://book.douban.com/subject/1266304/)|法哲学|
-|《法哲学：价值与事实》|瓦克斯|[豆瓣](https://book.douban.com/subject/24383568/)|法哲学|
-|《读懂法理学》|瓦克斯|[豆瓣](https://book.douban.com/subject/26832357/)|法哲学|
-|《像法律人那样思考》|弗里德里克·肖尔|[豆瓣](https://book.douban.com/subject/26835022/)|法哲学|
-|《合法性》|斯科特·夏皮罗|[豆瓣](https://book.douban.com/subject/26948910/)|法哲学|
+<h2 id="art-list">活动沉淀</h2>
+
+* [主持与控场](/doc/Art_of_Host.md)
+* [导读的技艺](/doc/Art_of_Guidance_to_Reading.md)
+* [组织的技艺](/doc/Art_of_Organize.md)
+* [空间的技艺](/doc/Art_of_Space.md)
+* [提问和引导](/doc/Art_of_Ask.md)
+* [文案与宣传]()
+
+
+<h2 id="recommend-books">推荐书单</h2>
+
+* [推荐书单](/doc/recommendBooks.md)
+
+
+<h2 id="about-us">关于我们</h2>
+
+* [活动发起者自述](/doc/Intention.md)
+* [常见问题讨论与解答](/doc/FAQ.md)
+* 豆瓣小站
+* 微信公共号
