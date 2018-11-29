@@ -33,9 +33,8 @@
 | 16    |   [法律、正义与道德的相对关系](/doc/series16.md)  |  2018-05-26 |[豆瓣同城](https://www.douban.com/event/30599281/),微信文案|
 | 17    |   [自然法的最低限度内容](/doc/series17.md)  |  2018-06-09 |[豆瓣同城](https://www.douban.com/event/30671529/),微信文案|
 | 18    |   [国际法是严格的法么？](/doc/series18.md)  |  2018-06-30 |[豆瓣同城](https://www.douban.com/event/30764308/),微信文案|
-| 19    |  [法政史分享——美国制宪与建国](/doc/series19.md) | 2018-10-12 | [豆瓣同城](https://www.douban.com/event/31305051/),微信文案 | 
-| 20    |  [美国建国史讨论——《联邦论》No.1和No.40篇](/doc/series20.md) | 2018-11-29 | [豆瓣同
-城](https://www.douban.com/event/31551058/),微信文案 |
+| 19    |  [法政史分享——美国制宪与建国](/doc/series19.md) | 2018-10-12 | [豆瓣同城](https://www.douban.com/event/31305051/),微信文案 |
+| 20    |  [美国建国史讨论——《联邦论》No.1和No.40篇](/doc/series20.md) | 2018-11-29 | [豆瓣同城](https://www.douban.com/event/31551058/),微信文案 |
 
 <h2 id="structure-desc">组织介绍</h2>
 
